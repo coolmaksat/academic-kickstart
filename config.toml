@@ -56,7 +56,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "King Abdullah University of Science and Technology", url = "www.kaust.edu.sa" } ]
+  organizations = [ { name = "King Abdullah University of Science and Technology", url = "http://www.kaust.edu.sa" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -291,8 +291,8 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Projects"
+  url = "#projects"
   weight = 2
 
 # [[menu.main]]
@@ -301,8 +301,8 @@ enableGitInfo = false
 #   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Publications"
+  url = "#publications_selected"
   weight = 4
 
 [[menu.main]]
