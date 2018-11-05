@@ -22,7 +22,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "King Abdullah University of Science and Technology"
-  year = Present
+  year = "2020"
 
 [[education.courses]]
   course = "MSc in Engineering and Technology"
