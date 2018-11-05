@@ -11,30 +11,38 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Machine Learning",
+    "Deep Learning",
+    "Knowledge Representation and Reasoning",
+    "Computational Biology",
+    "Bioinformatics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science"
+  institution = "King Abdullah University of Science and Technology"
+  year = Present
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MSc in Engineering and Technology"
+  institution = "Kazakh-British Technical University"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BSc in Information Systems"
+  institution = "Kazakh-British Technical University"
   year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Maxat Kulmanov is a Ph.D. candidate in Computational Bioscience
+Research Center at King Abdullah University of Science and
+Technology. His interests are artificial intelligence, knowledge
+representation and reasoning, machine learning, neural networks,
+semantic web, and algorithms. He develops methods for knowledge
+discovery and data integration using artificial intelligence and
+semantic web technologies in biology and biomedicine. His research
+topic is "Predicting Gene Knockout Phenotypes".
