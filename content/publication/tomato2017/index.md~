@@ -1,0 +1,12 @@
++++
+title = "DES-TOMATO: A Knowledge Exploration System Focused On Tomato Species"
+date = 2017-07-01
+authors = ["Adil Salhi", "Sónia Negrão", "Magbubah Essack", "Mitchell J. L. Morton", "Salim Bougouffa", "Rozaimi Razali", "Aleksandar Radovanovic", "Benoit Marchand", "Maxat Kulmanov", "Robert Hoehndorf", "Mark Tester", "Vladimir B. Bajic"]
+publication_types = ["2"]
+abstract = "Tomato is the most economically importanthorticultural crop used as a model to study plantbiology and particularly fruitdevelopment. Knowledge obtained from tomato researchinitiated improvements in tomato and, beingtransferrable to other such economically importantcrops, has led to a surge of tomato-related researchand published literature. We developed DES-TOMATOknowledgebase (KB) for exploration of informationrelated to tomato. Information exploration isenabled through terms from 26 dictionaries andcombination of these terms. To illustrate theutility of DES-TOMATO, we provide several exampleshow one can efficiently use this KB to retrieveknown or potentially novel information. DES-TOMATOis free for academic and nonprofit users and can beaccessed at http://cbrc.kaust.edu.sa/des_tomato/,using any of the mainstream web browsers, includingFirefox, Safari and Chrome."
+selected = "false"
+publication = "*Scientific Reports*"
+url_pdf = "https://www.nature.com/articles/s41598-017-05448-0"
+doi = "10.1038/s41598-017-05448-0"
++++
+

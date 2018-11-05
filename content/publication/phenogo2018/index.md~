@@ -1,0 +1,12 @@
++++
+title = "Ontology-based validation and identification of regulatory phenotypes"
+date = 2018-09-01
+authors = ["Maxat Kulmanov", "Paul N. Schofield", "Georgios V. Gkoutos", "Robert Hoehndorf"]
+publication_types = ["2"]
+abstract = "MotivationFunction annotations of gene products, and phenotype annotations ofgenotypes, provide valuable information aboutmolecular mechanisms that can be utilized bycomputational methods to identify functional andphenotypic relatedness, improve our understanding ofdisease and pathobiology, and lead to discovery ofdrug targets. Identifying functions and phenotypescommonly requires experiments which aretime-consuming and expensive to carry out; creatingthe annotations additionally requires a curator tomake an assertion based on reportedevidence. Support to validate the mutual consistencyof functional and phenotype annotations as well as acomputational method to predict phenotypes fromfunction annotations, would greatly improve theutility of function annotations.ResultsWe developed a novel ontology-based method to validate the mutualconsistency of function and phenotypeannotations. We apply our method to mouse and humanannotations, and identify several inconsistenciesthat can be resolved to improve overall annotationquality. We also apply our method to the rule-basedprediction of regulatory phenotypes from functionsand demonstrate that we can predict these phenotypeswith Fmax of up to 0.647."
+selected = "false"
+publication = "*Bioinformatics*"
+url_pdf = "https://academic.oup.com/bioinformatics/article/34/17/i857/5093216"
+doi = "10.1093/bioinformatics/bty605"
++++
+

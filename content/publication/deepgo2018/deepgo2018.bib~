@@ -1,0 +1,47 @@
+@article{deepgo2018,
+ abstract = {Motivation
+A large number of protein sequences are becoming available through the
+application of novel high-throughput sequencing
+technologies. Experimental functional
+characterization of these proteins is time-consuming
+and expensive, and is often only done rigorously for
+few selected model organisms. Computational function
+prediction approaches have been suggested to fill
+this gap. The functions of proteins are classified
+using the Gene Ontology (GO), which contains over
+40 000 classes. Additionally, proteins have multiple
+functions, making function prediction a large-scale,
+multi-class, multi-label problem.
+
+Results
+We have developed a novel method to predict protein function from
+sequence. We use deep learning to learn features
+from protein sequences as well as a cross-species
+protein–protein interaction network. Our approach
+specifically outputs information in the structure of
+the GO and utilizes the dependencies between GO
+classes as background information to construct a
+deep learning model. We evaluate our method using
+the standards established by the Computational
+Assessment of Function Annotation (CAFA) and
+demonstrate a significant improvement over baseline
+methods such as BLAST, in particular for predicting
+cellular locations.},
+ author = {Kulmanov, Maxat and Khan, Mohammed Asif and Hoehndorf, Robert},
+ copyright = {All rights reserved},
+ doi = {10.1093/bioinformatics/btx624},
+ file = {Full Text PDF:/Users/kulmanm/Zotero/storage/UQIUBHJ9/Kulmanov et al. - 2018 - DeepGO predicting protein functions from sequence.pdf:application/pdf;Snapshot:/Users/kulmanm/Zotero/storage/ZPUV8E53/4265461.html:text/html},
+ issn = {1367-4803},
+ journal = {Bioinformatics},
+ language = {en},
+ month = {feb},
+ number = {4},
+ pages = {660--668},
+ shorttitle = {DeepGO},
+ title = {DeepGO: predicting protein functions from sequence and interactions using a deep ontology-aware classifier},
+ url = {https://academic.oup.com/bioinformatics/article/34/4/660/4265461},
+ urldate = {2018-11-05},
+ volume = {34},
+ year = {2018}
+}
+
