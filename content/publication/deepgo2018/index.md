@@ -9,10 +9,6 @@ publication = "*Bioinformatics*"
 url_pdf = "https://academic.oup.com/bioinformatics/article/34/4/660/4265461"
 doi = "10.1093/bioinformatics/btx624"
 
-[header]
-  image = "headers/deepgo.png"
-  caption = "DeepGO Neural Network Model"
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
@@ -22,6 +18,12 @@ doi = "10.1093/bioinformatics/btx624"
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
+  preview_only = true
+
+[header]
+  image = "headers/deepgo.png"
+  caption = "DeepGO Neural Network Model"
+
 
 +++
 

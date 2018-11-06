@@ -9,10 +9,6 @@ publication = "*Bioinformatics*"
 url_pdf = "https://academic.oup.com/bioinformatics/article/34/17/i857/5093216"
 doi = "10.1093/bioinformatics/bty605"
 
-[header]
-  image = "headers/phenogo.png"
-  caption = ""
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
@@ -22,6 +18,11 @@ doi = "10.1093/bioinformatics/bty605"
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
+  preview_only = true
+
+[header]
+  image = "headers/phenogo.png"
+  caption = "PhenoGO rule patterns"
 
 +++
 
